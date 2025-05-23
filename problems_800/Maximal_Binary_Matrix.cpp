@@ -6,10 +6,11 @@ using namespace std;
 
 
 int main(){
-    int n, k;
+    int n;
+    long long k;
     cin>>n;
     cin>>k;
-    if(k>n){
+    if(k>(long long)n*n){
         cout<<-1<<endl;
         return 0;
     }
@@ -18,7 +19,7 @@ int main(){
     //for diagonal elements 1
     for(int i=0;i<n && k>0;i++){
 
-        for(int j=0;j<n && k>0;j++){
+        for(int j=i;j<n && k>0;j++){
             if(i==j){
                 if(k>=1){
                     matrix[i][j] = 1;
