@@ -3,7 +3,8 @@
 #include <string>
 using namespace std;
 
-long long binom(int n, int k) {
+//binomial function
+long long binom(int n, int k) { 
     if (k < 0 || k > n) return 0;
     if (k == 0 || k == n) return 1;
     long long res = 1;
@@ -16,12 +17,25 @@ long long binom(int n, int k) {
 int main() {
     string s1, s2;
     cin >> s1 >> s2;
+
     int target = 0;
-    for (char c : s1) target += (c == '+') ? 1 : -1;
+    for (char c : s1) {
+        if(c == '+'){
+            target += 1;
+        }
+        else{
+            target += -1;
+        }
+        //target += (c == '+') ? 1 : -1;
+    }
     int base = 0, unknowns = 0;
     for (char c : s2) {
-        if (c == '+') base++;
-        else if (c == '-') base--;
+        if (c == '+'){
+            base++;
+        }
+        else if (c == '-'){
+            base--;
+        }
         else unknowns++;
     }
     int diff = target - base;
@@ -35,7 +49,7 @@ int main() {
         return 0;
     }
     long long ways = binom(unknowns, x);
-    long long total = 1LL << unknowns;
+    long long total = 1LL << unknowns; //multiply by 2 to the power unknown values time
     double prob = (double)ways / total;
     cout << fixed << setprecision(12) << prob << endl;
     return 0;
