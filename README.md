@@ -1,38 +1,49 @@
-<html>
-  <head>
-    <title>Codeforces Problems (800–1400)</title>
-  </head>
-  <body>
-    <h3>Week 1</h3>
-    <ul>Arrays</ul>
-    <ul>Matrix</ul>
+<h1>📘 Codeforces Practice Plan (Rating: 800–1400)</h1>
 
-    <h3>Week 2</h3>
-    <ul>Strings</ul>
-    <ul>Two Pointers</ul>
+<h3>Week 1</h3>
+<ul>
+  <li>Arrays</li>
+  <li>Matrix</li>
+</ul>
 
-    <h3>Week 3</h3>
-    <ul>Hashing</ul>
-    <ul>Prefix Sum</ul>
+<h3>Week 2</h3>
+<ul>
+  <li>Strings</li>
+  <li>Two Pointers</li>
+</ul>
 
-    <h3>Week 4</h3>
-    <ul>Bit Manipulation</ul>
-    <ul>Greedy</ul>
+<h3>Week 3</h3>
+<ul>
+  <li>Hashing</li>
+  <li>Prefix Sum</li>
+</ul>
 
-    <h3>Week 5</h3>
-    <ul>Sorting</ul>
-    <ul>Binary Search</ul>
+<h3>Week 4</h3>
+<ul>
+  <li>Bit Manipulation</li>
+  <li>Greedy</li>
+</ul>
 
-    <h3>Week 6</h3>
-    <ul>Stacks</ul>
-    <ul>Queues</ul>
+<h3>Week 5</h3>
+<ul>
+  <li>Sorting</li>
+  <li>Binary Search</li>
+</ul>
 
-    <h3>Week 7</h3>
-    <ul>Recursion</ul>
-    <ul>Backtracking</ul>
+<h3>Week 6</h3>
+<ul>
+  <li>Stacks</li>
+  <li>Queues</li>
+</ul>
 
-    <h3>Week 8</h3>
-    <ul>Graphs (BFS/DFS)</ul>
-    <ul>Number Theory</ul>
-  </body>
-</html>
+<h3>Week 7</h3>
+<ul>
+  <li>Recursion</li>
+  <li>Backtracking</li>
+</ul>
+
+<h3>Week 8</h3>
+<ul>
+  <li>Graphs (BFS / DFS)</li>
+  <li>Number Theory</li>
+</ul>
