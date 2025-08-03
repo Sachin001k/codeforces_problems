@@ -5,7 +5,12 @@ Rating from 800 to 1400
     
   </head>
   <body>
-    <h1> Week 1 </h1>
+    <h3> Week 1 </h3>
+    <ul>
+      Arrays
+      Matrix
+    </ul>
+    
     
   </body>
 </html>
