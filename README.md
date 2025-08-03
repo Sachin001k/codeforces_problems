@@ -1,4 +1,4 @@
-<h1>📘 Codeforces Practice Plan (Rating: 800–1400)</h1>
+<h1>📘 Codeforces Practice Problems (Rating: 800–1400)</h1>
 
 <h3>Week 1</h3>
 <ul>
