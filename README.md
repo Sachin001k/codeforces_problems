@@ -9,19 +9,19 @@
 <h3>Week 2</h3>
 <ul>
   <li>Strings</li>
-  <li>Two Pointers</li>
+  <li>Two Pointers Approach</li>
 </ul>
 
 <h3>Week 3</h3>
 <ul>
   <li>Hashing</li>
-  <li>Prefix Sum</li>
+  <li>Prefix Sum Subarrays </li>
 </ul>
 
 <h3>Week 4</h3>
 <ul>
-  <li>Bit Manipulation</li>
-  <li>Greedy</li>
+  <li>OOPs</li>
+  <li>Linked List</li>
 </ul>
 
 <h3>Week 5</h3>
@@ -45,5 +45,5 @@
 <h3>Week 8</h3>
 <ul>
   <li>Graphs (BFS / DFS)</li>
-  <li>Number Theory</li>
+  <li>DP</li>
 </ul>
