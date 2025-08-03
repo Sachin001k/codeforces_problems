@@ -8,8 +8,8 @@ Rating from 800 to 1400
     <h3> Week 1 </h3>
     <ul>
       Arrays
-      Matrix
     </ul>
+    <ul>Matrix</ul>
     
     
   </body>
